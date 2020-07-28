@@ -1,1 +1,1 @@
-# js-assignment-6-and-assignment-9
+# js-assignments from chapter 1 to 67
